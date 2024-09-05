@@ -44,5 +44,5 @@ DEFAULT_TEXT_MODEL = "llama3-groq-70b-8192-tool-use-preview"
 IMAGE_ANALYSIS_MODEL = "llava-v1.5-7b-4096-preview"
 
 # Story Modes
-STORY_MODES = ["nature_documentary", "dnd", "mystery_detective", "time_travel", "superhero_chronicles", "sci-fi_adventure"]
+STORY_MODES = ["life-captions", "dnd", "mystery_detective", "time_travel", "superhero_chronicles", "sci-fi_adventure"]
 
